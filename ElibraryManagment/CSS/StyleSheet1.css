@@ -1,0 +1,25 @@
+﻿.footerlinks {
+    color: white;
+    text-decoration: none !important;
+}
+
+    .footerlinks:hover {
+        color: #9f9f9f;
+    }
+
+#footer1 {
+    background: #08385e;
+}
+
+#footer2 {
+    background: #034F8E;
+}
+.c-item {
+    height: 480px;
+}
+
+.c-img {
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+}
